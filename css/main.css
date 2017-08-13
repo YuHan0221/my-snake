@@ -1,0 +1,20 @@
+.canvas {
+  width: 800px;
+  height: 600px;
+  background-color: #000;
+  position: absolute;
+  top: 50px;
+}
+button:hover {
+	
+	background-color: red;
+}
+
+span {
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	margin-left: 30px;
+
+	font: 700 16px/25px '宋体';
+}
